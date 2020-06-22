@@ -3,5 +3,3 @@
 
 ![效果图](https://github.com/a758209678/CASpringAnimation/blob/master/CASpringAnimationDemo/屏幕录制2020-06-05%20上午11.27.56.gif)
 
-![pdf](https://github.com/a758209678/CASpringAnimation/blob/master/CASpringAnimationDemo/Runloop.pdf)
-
